@@ -1,6 +1,14 @@
 {
 	"installed_packages":
 	[
-		"Package Control"
+		"DocBlockr",
+		"Emmet",
+		"Http Requester",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements",
+		"Tag"
 	]
 }

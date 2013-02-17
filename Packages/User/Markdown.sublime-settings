@@ -1,0 +1,7 @@
+{
+	"scroll_past_end": true,
+	"highlight_line": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	// add trailing #'s to headlines
+	"match_header_hashes": true,
+}
